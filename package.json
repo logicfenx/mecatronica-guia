@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/mecatronica-guia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a mecatronica-guia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/mecatronica-guia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://mejorhistoria.com/mecatronica/"
+    },
+    "homepage": "https://mejorhistoria.com/mecatronica/"
+}
